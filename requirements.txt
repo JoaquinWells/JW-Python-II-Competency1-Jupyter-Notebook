@@ -1,0 +1,7 @@
+ucimlrepo
+certifi
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
